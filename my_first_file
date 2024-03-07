@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-cout<<"Addition of Two numbers:"<<a+b<<endl;
+cout<<"sum of Two numbers:"<<a+b<<endl;
 cout<<"Subtraction of two numbers:"<<a-b<<endl;
 cout<<"product of two numbers:"<<a*b<<endl;
 }
